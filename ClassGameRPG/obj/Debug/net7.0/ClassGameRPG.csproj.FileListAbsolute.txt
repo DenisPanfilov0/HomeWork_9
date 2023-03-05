@@ -1,0 +1,15 @@
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\bin\Debug\net7.0\ClassGameRPG.exe
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\bin\Debug\net7.0\ClassGameRPG.deps.json
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\bin\Debug\net7.0\ClassGameRPG.runtimeconfig.json
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\bin\Debug\net7.0\ClassGameRPG.dll
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\bin\Debug\net7.0\ClassGameRPG.pdb
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.csproj.AssemblyReference.cache
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.AssemblyInfoInputs.cache
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.AssemblyInfo.cs
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.csproj.CoreCompileInputs.cache
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.dll
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\refint\ClassGameRPG.dll
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.pdb
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ClassGameRPG.genruntimeconfig.cache
+C:\Users\Панфиленок\RiderProjects\ClassGameRPG\ClassGameRPG\obj\Debug\net7.0\ref\ClassGameRPG.dll
